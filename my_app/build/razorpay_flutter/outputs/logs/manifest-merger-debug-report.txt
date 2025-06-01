@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml:2:3-42
+		INJECTED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml:3:5-5:19
+uses-sdk
+INJECTED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml

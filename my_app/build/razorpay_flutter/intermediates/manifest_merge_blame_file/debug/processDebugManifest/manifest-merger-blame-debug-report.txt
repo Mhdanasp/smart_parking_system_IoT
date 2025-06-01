@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.razorpay.razorpay_flutter" >
+4
+5    <uses-sdk android:minSdkVersion="19" />
+6
+7    <application>
+7-->C:\Users\Lenovo\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.4.0\android\src\main\AndroidManifest.xml:3:5-5:19
+8    </application>
+9
+10</manifest>
